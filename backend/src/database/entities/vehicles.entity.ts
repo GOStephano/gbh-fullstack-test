@@ -29,7 +29,7 @@ export class VehicleEntity {
   public price: number;
 
   @Column({ type: 'enum', enum: Object.values(FuelType) })
-  public fuelType: string;
+  public fuelType: FuelType;
 
   @Column()
   public transmission: string;
