@@ -1,5 +1,5 @@
+import Providers from "@/providers"
 import { Box } from "@mui/material"
-import { AppRouterCacheProvider } from "@mui/material-nextjs/v15-appRouter"
 import type { Metadata } from "next"
 import localFont from "next/font/local"
 import "./globals.css"
@@ -29,9 +29,9 @@ export default function RootLayout({
 		<html lang="en">
 			<body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
 				{/* HEADER */}
-				<AppRouterCacheProvider>
+				<Providers>
 					<Box sx={{ padding: 2 }}>{children}</Box>
-				</AppRouterCacheProvider>
+				</Providers>
 			</body>
 		</html>
 	)
