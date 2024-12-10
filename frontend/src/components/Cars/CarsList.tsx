@@ -2,11 +2,15 @@
 
 import useSortStore from "@/data/store/carsSort"
 import { Car } from "@/data/types"
+import { getCarsListOptions } from "@/queries"
 import Box from "@mui/material/Box"
+import { useSuspenseQuery } from "@tanstack/react-query"
 import * as React from "react"
 import CarCard from "./CarCard"
 
-export default function CarsList({ cars }: { cars: Car[] }) {
+export default function CarsList() {
+	const { data: cars } = useSuspenseQuery(getCarsListOptions(["1"]))
+
 	const { price, year } = useSortStore()
 
 	const sortedCars = [...cars]

@@ -1,12 +1,16 @@
 import { CarsFilters } from "@/components/Cars/CarsFilters"
 import CarsList from "@/components/Cars/CarsList"
 import CarsSort from "@/components/Cars/CarsSort"
-import { Car } from "@/data/types"
+import { getQueryClient } from "@/helpers/get-query-client"
+import { getCarsListOptions } from "@/queries"
 import { Box } from "@mui/material"
 
 export default async function Home() {
-	const res = await fetch("http://localhost:3000/vehicles.json")
-	const cars: Car[] = await res.json()
+	const queryClient = getQueryClient()
+	void queryClient.prefetchQuery(getCarsListOptions(["1"]))
+
+	// const res = await fetch("http://localhost:3000/vehicles.json")
+	// const cars: Car[] = await res.json()
 
 	return (
 		<Box>
@@ -14,7 +18,7 @@ export default async function Home() {
 				<CarsFilters />
 				<CarsSort />
 			</Box>
-			<CarsList cars={cars} />
+			<CarsList />
 		</Box>
 	)
 }
