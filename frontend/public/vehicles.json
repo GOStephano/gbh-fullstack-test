@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "v_862580",
+    "manufacturer": "Chevrolet",
+    "model": "Civic",
+    "year": 2010,
+    "type": "SEDAN",
+    "price": 70793.05,
+    "fuelType": "PLUGIN_HYBRID",
+    "transmission": "Automatic",
+    "mileage": 79183.0,
+    "features": [
+      "Heated Seats",
+      "Navigation System",
+      "Blind Spot Monitoring",
+      "Remote Start"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-06-25T12:02:18.759267",
+    "updatedAt": "2024-12-10T12:02:18.759284"
+  },
+  {
+    "id": "v_934958",
+    "manufacturer": "Hyundai",
+    "model": "F-150",
+    "year": 2012,
+    "type": "SUV",
+    "price": 56677.18,
+    "fuelType": "PLUGIN_HYBRID",
+    "transmission": "Manual",
+    "mileage": null,
+    "features": [
+      "Backup Camera",
+      "Blind Spot Monitoring"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-03-08T12:02:18.759310",
+    "updatedAt": "2024-10-19T12:02:18.759316"
+  },
+  {
+    "id": "v_272089",
+    "manufacturer": "Hyundai",
+    "model": "E-Class",
+    "year": 2016,
+    "type": "ELECTRIC",
+    "price": 40221.42,
+    "fuelType": "ELECTRIC",
+    "transmission": "Automatic",
+    "mileage": 54462.19,
+    "features": [
+      "Sunroof",
+      "Navigation System"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-11-15T12:02:18.759340",
+    "updatedAt": "2024-10-12T12:02:18.759347"
+  },
+  {
+    "id": "v_741786",
+    "manufacturer": "Kia",
+    "model": "E-Class",
+    "year": 2012,
+    "type": "SEDAN",
+    "price": 77046.93,
+    "fuelType": "PLUGIN_HYBRID",
+    "transmission": "Manual",
+    "mileage": 109153.22,
+    "features": [
+      "Heated Seats",
+      "Blind Spot Monitoring"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-07-19T12:02:18.759362",
+    "updatedAt": "2024-11-30T12:02:18.759366"
+  },
+  {
+    "id": "v_173346",
+    "manufacturer": "Chevrolet",
+    "model": "Civic",
+    "year": 2010,
+    "type": "LUXURY",
+    "price": 74987.89,
+    "fuelType": "GASOLINE",
+    "transmission": "Manual",
+    "mileage": null,
+    "features": [
+      "Heated Seats",
+      "Apple CarPlay",
+      "Navigation System",
+      "Blind Spot Monitoring",
+      "Backup Camera"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-02-04T12:02:18.759383",
+    "updatedAt": "2024-10-22T12:02:18.759387"
+  },
+  {
+    "id": "v_234194",
+    "manufacturer": "Chevrolet",
+    "model": "Camry",
+    "year": 2012,
+    "type": "ELECTRIC",
+    "price": 30632.84,
+    "fuelType": "PLUGIN_HYBRID",
+    "transmission": "Automatic",
+    "mileage": null,
+    "features": [
+      "Backup Camera",
+      "Bluetooth",
+      "Remote Start",
+      "Sunroof",
+      "Heated Seats"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-02-09T12:02:18.759403",
+    "updatedAt": "2024-11-01T12:02:18.759406"
+  },
+  {
+    "id": "v_331611",
+    "manufacturer": "Mercedes",
+    "model": "Elantra",
+    "year": 2013,
+    "type": "SEDAN",
+    "price": 20752.68,
+    "fuelType": "GASOLINE",
+    "transmission": "Automatic",
+    "mileage": 103987.95,
+    "features": [
+      "Heated Seats",
+      "Navigation System",
+      "Sunroof",
+      "Bluetooth"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-07-04T12:02:18.759423",
+    "updatedAt": "2024-11-10T12:02:18.759426"
+  },
+  {
+    "id": "v_906965",
+    "manufacturer": "Audi",
+    "model": "E-Class",
+    "year": 2019,
+    "type": "SPORTS",
+    "price": 54554.09,
+    "fuelType": "DIESEL",
+    "transmission": "Automatic",
+    "mileage": 125997.16,
+    "features": [
+      "Apple CarPlay",
+      "Heated Seats",
+      "Navigation System"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-06-08T12:02:18.759448",
+    "updatedAt": "2024-12-02T12:02:18.759452"
+  },
+  {
+    "id": "v_106162",
+    "manufacturer": "Ford",
+    "model": "Q7",
+    "year": 2013,
+    "type": "SPORTS",
+    "price": 24107.8,
+    "fuelType": "DIESEL",
+    "transmission": "Automatic",
+    "mileage": 59059.78,
+    "features": [
+      "Backup Camera",
+      "Sunroof"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-02-25T12:02:18.759466",
+    "updatedAt": "2024-12-06T12:02:18.759470"
+  },
+  {
+    "id": "v_214279",
+    "manufacturer": "Kia",
+    "model": "Elantra",
+    "year": 2019,
+    "type": "LUXURY",
+    "price": 99268.46,
+    "fuelType": "PLUGIN_HYBRID",
+    "transmission": "Automatic",
+    "mileage": null,
+    "features": [
+      "Heated Seats",
+      "Navigation System",
+      "Remote Start",
+      "Bluetooth",
+      "Apple CarPlay"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-08-03T12:02:18.759485",
+    "updatedAt": "2024-09-05T12:02:18.759489"
+  },
+  {
+    "id": "v_966614",
+    "manufacturer": "Hyundai",
+    "model": "Model 3",
+    "year": 2007,
+    "type": "ELECTRIC",
+    "price": 64852.2,
+    "fuelType": "GASOLINE",
+    "transmission": "Automatic",
+    "mileage": 185923.67,
+    "features": [
+      "Apple CarPlay",
+      "Backup Camera",
+      "Remote Start"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-02-12T12:02:18.759503",
+    "updatedAt": "2024-11-09T12:02:18.759506"
+  },
+  {
+    "id": "v_610122",
+    "manufacturer": "Toyota",
+    "model": "Elantra",
+    "year": 2020,
+    "type": "SEDAN",
+    "price": 83789.74,
+    "fuelType": "HYBRID",
+    "transmission": "Manual",
+    "mileage": 26388.06,
+    "features": [
+      "Apple CarPlay",
+      "Remote Start",
+      "Blind Spot Monitoring",
+      "Sunroof",
+      "Backup Camera"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-08-23T12:02:18.759524",
+    "updatedAt": "2024-09-08T12:02:18.759529"
+  },
+  {
+    "id": "v_862571",
+    "manufacturer": "Honda",
+    "model": "Q7",
+    "year": 2019,
+    "type": "ELECTRIC",
+    "price": 38358.14,
+    "fuelType": "HYBRID",
+    "transmission": "Automatic",
+    "mileage": 141074.9,
+    "features": [
+      "Heated Seats",
+      "Bluetooth"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-05-24T12:02:18.759549",
+    "updatedAt": "2024-09-18T12:02:18.759554"
+  },
+  {
+    "id": "v_722123",
+    "manufacturer": "Audi",
+    "model": "Model 3",
+    "year": 2017,
+    "type": "SPORTS",
+    "price": 52520.28,
+    "fuelType": "GASOLINE",
+    "transmission": "Manual",
+    "mileage": 95063.35,
+    "features": [
+      "Blind Spot Monitoring",
+      "Navigation System",
+      "Bluetooth"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-10-23T12:02:18.759577",
+    "updatedAt": "2024-12-01T12:02:18.759582"
+  },
+  {
+    "id": "v_440480",
+    "manufacturer": "Toyota",
+    "model": "Silverado",
+    "year": 2020,
+    "type": "SUV",
+    "price": 29760.75,
+    "fuelType": "DIESEL",
+    "transmission": "Automatic",
+    "mileage": 147664.58,
+    "features": [
+      "Sunroof",
+      "Heated Seats"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-05-01T12:02:18.759605",
+    "updatedAt": "2024-09-11T12:02:18.759611"
+  },
+  {
+    "id": "v_772604",
+    "manufacturer": "Kia",
+    "model": "Silverado",
+    "year": 2022,
+    "type": "TRUCK",
+    "price": 27610.01,
+    "fuelType": "GASOLINE",
+    "transmission": "Manual",
+    "mileage": null,
+    "features": [
+      "Heated Seats",
+      "Backup Camera",
+      "Apple CarPlay"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-05-26T12:02:18.759631",
+    "updatedAt": "2024-09-24T12:02:18.759637"
+  },
+  {
+    "id": "v_643784",
+    "manufacturer": "Hyundai",
+    "model": "Civic",
+    "year": 2012,
+    "type": "SEDAN",
+    "price": 67989.17,
+    "fuelType": "PLUGIN_HYBRID",
+    "transmission": "Automatic",
+    "mileage": 14791.25,
+    "features": [
+      "Sunroof",
+      "Backup Camera"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-11-14T12:02:18.759659",
+    "updatedAt": "2024-09-13T12:02:18.759664"
+  },
+  {
+    "id": "v_311937",
+    "manufacturer": "BMW",
+    "model": "Model 3",
+    "year": 2010,
+    "type": "SEDAN",
+    "price": 21390.92,
+    "fuelType": "ELECTRIC",
+    "transmission": "Automatic",
+    "mileage": 144156.95,
+    "features": [
+      "Backup Camera",
+      "Apple CarPlay",
+      "Remote Start",
+      "Heated Seats"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-06-22T12:02:18.759680",
+    "updatedAt": "2024-09-03T12:02:18.759683"
+  },
+  {
+    "id": "v_348433",
+    "manufacturer": "Toyota",
+    "model": "Q7",
+    "year": 2012,
+    "type": "ELECTRIC",
+    "price": 99550.22,
+    "fuelType": "PLUGIN_HYBRID",
+    "transmission": "Manual",
+    "mileage": 47947.22,
+    "features": [
+      "Heated Seats",
+      "Bluetooth",
+      "Backup Camera"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-10-16T12:02:18.759706",
+    "updatedAt": "2024-09-18T12:02:18.759711"
+  },
+  {
+    "id": "v_665355",
+    "manufacturer": "Honda",
+    "model": "F-150",
+    "year": 2018,
+    "type": "SUV",
+    "price": 59526.65,
+    "fuelType": "DIESEL",
+    "transmission": "Manual",
+    "mileage": 173421.62,
+    "features": [
+      "Blind Spot Monitoring",
+      "Apple CarPlay",
+      "Heated Seats",
+      "Bluetooth"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-09-17T12:02:18.759726",
+    "updatedAt": "2024-10-11T12:02:18.759729"
+  },
+  {
+    "id": "v_606306",
+    "manufacturer": "Toyota",
+    "model": "Camry",
+    "year": 2013,
+    "type": "ELECTRIC",
+    "price": 89201.99,
+    "fuelType": "GASOLINE",
+    "transmission": "Automatic",
+    "mileage": 116584.95,
+    "features": [
+      "Heated Seats",
+      "Blind Spot Monitoring",
+      "Bluetooth",
+      "Sunroof"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-08-08T12:02:18.759744",
+    "updatedAt": "2024-11-11T12:02:18.759747"
+  },
+  {
+    "id": "v_832598",
+    "manufacturer": "Mercedes",
+    "model": "Silverado",
+    "year": 2013,
+    "type": "ELECTRIC",
+    "price": 70500.17,
+    "fuelType": "GASOLINE",
+    "transmission": "Manual",
+    "mileage": 108230.49,
+    "features": [
+      "Navigation System",
+      "Bluetooth"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-03-29T12:02:18.759760",
+    "updatedAt": "2024-09-07T12:02:18.759765"
+  },
+  {
+    "id": "v_850752",
+    "manufacturer": "Mercedes",
+    "model": "Sportage",
+    "year": 2013,
+    "type": "TRUCK",
+    "price": 72765.69,
+    "fuelType": "HYBRID",
+    "transmission": "Manual",
+    "mileage": 29109.25,
+    "features": [
+      "Apple CarPlay",
+      "Navigation System",
+      "Bluetooth",
+      "Remote Start",
+      "Sunroof"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-04-29T12:02:18.759787",
+    "updatedAt": "2024-11-08T12:02:18.759791"
+  },
+  {
+    "id": "v_265733",
+    "manufacturer": "Kia",
+    "model": "Silverado",
+    "year": 2013,
+    "type": "LUXURY",
+    "price": 27589.31,
+    "fuelType": "PLUGIN_HYBRID",
+    "transmission": "Automatic",
+    "mileage": 135017.75,
+    "features": [
+      "Backup Camera",
+      "Remote Start"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-04-28T12:02:18.759810",
+    "updatedAt": "2024-10-14T12:02:18.759815"
+  },
+  {
+    "id": "v_413889",
+    "manufacturer": "BMW",
+    "model": "Q7",
+    "year": 2005,
+    "type": "SEDAN",
+    "price": 77172.18,
+    "fuelType": "DIESEL",
+    "transmission": "Manual",
+    "mileage": 44034.28,
+    "features": [
+      "Backup Camera",
+      "Apple CarPlay",
+      "Blind Spot Monitoring",
+      "Navigation System"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-10-04T12:02:18.759832",
+    "updatedAt": "2024-12-03T12:02:18.759836"
+  },
+  {
+    "id": "v_128268",
+    "manufacturer": "Chevrolet",
+    "model": "Civic",
+    "year": 2020,
+    "type": "LUXURY",
+    "price": 62255.21,
+    "fuelType": "ELECTRIC",
+    "transmission": "Manual",
+    "mileage": null,
+    "features": [
+      "Sunroof",
+      "Remote Start",
+      "Blind Spot Monitoring"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-09-27T12:02:18.759852",
+    "updatedAt": "2024-09-12T12:02:18.759855"
+  },
+  {
+    "id": "v_398866",
+    "manufacturer": "Hyundai",
+    "model": "Elantra",
+    "year": 2008,
+    "type": "TRUCK",
+    "price": 98705.08,
+    "fuelType": "GASOLINE",
+    "transmission": "Manual",
+    "mileage": 190740.7,
+    "features": [
+      "Apple CarPlay",
+      "Heated Seats",
+      "Sunroof"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-12-06T12:02:18.759872",
+    "updatedAt": "2024-09-02T12:02:18.759878"
+  },
+  {
+    "id": "v_205733",
+    "manufacturer": "Honda",
+    "model": "Sportage",
+    "year": 2006,
+    "type": "ELECTRIC",
+    "price": 77213.86,
+    "fuelType": "GASOLINE",
+    "transmission": "Automatic",
+    "mileage": null,
+    "features": [
+      "Heated Seats",
+      "Remote Start",
+      "Navigation System",
+      "Sunroof",
+      "Blind Spot Monitoring"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-06-06T12:02:18.759904",
+    "updatedAt": "2024-10-28T12:02:18.759909"
+  },
+  {
+    "id": "v_667102",
+    "manufacturer": "Chevrolet",
+    "model": "Sportage",
+    "year": 2015,
+    "type": "SUV",
+    "price": 54894.19,
+    "fuelType": "PLUGIN_HYBRID",
+    "transmission": "Automatic",
+    "mileage": 34524.49,
+    "features": [
+      "Backup Camera",
+      "Remote Start",
+      "Bluetooth",
+      "Sunroof"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-08-20T12:02:18.759929",
+    "updatedAt": "2024-12-10T12:02:18.759935"
+  },
+  {
+    "id": "v_573844",
+    "manufacturer": "Hyundai",
+    "model": "Model 3",
+    "year": 2023,
+    "type": "SUV",
+    "price": 53757.38,
+    "fuelType": "GASOLINE",
+    "transmission": "Manual",
+    "mileage": 25316.7,
+    "features": [
+      "Remote Start",
+      "Apple CarPlay",
+      "Navigation System"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-04-24T12:02:18.759951",
+    "updatedAt": "2024-10-09T12:02:18.759954"
+  },
+  {
+    "id": "v_699998",
+    "manufacturer": "Toyota",
+    "model": "Civic",
+    "year": 2019,
+    "type": "ELECTRIC",
+    "price": 69598.62,
+    "fuelType": "GASOLINE",
+    "transmission": "Automatic",
+    "mileage": null,
+    "features": [
+      "Backup Camera",
+      "Remote Start"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-10-20T12:02:18.759967",
+    "updatedAt": "2024-09-23T12:02:18.759970"
+  },
+  {
+    "id": "v_450808",
+    "manufacturer": "Mercedes",
+    "model": "X5",
+    "year": 2021,
+    "type": "SUV",
+    "price": 27321.94,
+    "fuelType": "ELECTRIC",
+    "transmission": "Manual",
+    "mileage": 31247.07,
+    "features": [
+      "Remote Start",
+      "Navigation System"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-04-28T12:02:18.759983",
+    "updatedAt": "2024-09-25T12:02:18.759987"
+  },
+  {
+    "id": "v_749160",
+    "manufacturer": "Chevrolet",
+    "model": "Sportage",
+    "year": 2013,
+    "type": "SUV",
+    "price": 82432.9,
+    "fuelType": "GASOLINE",
+    "transmission": "Manual",
+    "mileage": null,
+    "features": [
+      "Sunroof",
+      "Remote Start",
+      "Apple CarPlay",
+      "Blind Spot Monitoring"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-05-23T12:02:18.760000",
+    "updatedAt": "2024-09-01T12:02:18.760003"
+  },
+  {
+    "id": "v_929930",
+    "manufacturer": "Mercedes",
+    "model": "Silverado",
+    "year": 2009,
+    "type": "TRUCK",
+    "price": 59457.38,
+    "fuelType": "PLUGIN_HYBRID",
+    "transmission": "Manual",
+    "mileage": 165777.95,
+    "features": [
+      "Navigation System",
+      "Remote Start",
+      "Backup Camera",
+      "Blind Spot Monitoring",
+      "Sunroof"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-05-16T12:02:18.760018",
+    "updatedAt": "2024-11-18T12:02:18.760021"
+  },
+  {
+    "id": "v_588187",
+    "manufacturer": "Chevrolet",
+    "model": "Civic",
+    "year": 2018,
+    "type": "SPORTS",
+    "price": 68052.88,
+    "fuelType": "PLUGIN_HYBRID",
+    "transmission": "Manual",
+    "mileage": 71133.23,
+    "features": [
+      "Blind Spot Monitoring",
+      "Navigation System",
+      "Backup Camera",
+      "Sunroof",
+      "Apple CarPlay"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-10-21T12:02:18.760035",
+    "updatedAt": "2024-10-09T12:02:18.760038"
+  },
+  {
+    "id": "v_883495",
+    "manufacturer": "Hyundai",
+    "model": "Sportage",
+    "year": 2010,
+    "type": "SEDAN",
+    "price": 35234.0,
+    "fuelType": "GASOLINE",
+    "transmission": "Automatic",
+    "mileage": null,
+    "features": [
+      "Navigation System",
+      "Heated Seats",
+      "Apple CarPlay"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-03-26T12:02:18.760054",
+    "updatedAt": "2024-11-21T12:02:18.760060"
+  },
+  {
+    "id": "v_601914",
+    "manufacturer": "Honda",
+    "model": "E-Class",
+    "year": 2008,
+    "type": "LUXURY",
+    "price": 29983.58,
+    "fuelType": "PLUGIN_HYBRID",
+    "transmission": "Automatic",
+    "mileage": 189421.47,
+    "features": [
+      "Bluetooth",
+      "Apple CarPlay",
+      "Remote Start",
+      "Backup Camera"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-04-16T12:02:18.760082",
+    "updatedAt": "2024-10-29T12:02:18.760086"
+  },
+  {
+    "id": "v_870677",
+    "manufacturer": "Mercedes",
+    "model": "Silverado",
+    "year": 2022,
+    "type": "TRUCK",
+    "price": 38524.42,
+    "fuelType": "GASOLINE",
+    "transmission": "Automatic",
+    "mileage": 188609.24,
+    "features": [
+      "Sunroof",
+      "Navigation System",
+      "Blind Spot Monitoring",
+      "Heated Seats"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-12-05T12:02:18.760100",
+    "updatedAt": "2024-09-23T12:02:18.760103"
+  },
+  {
+    "id": "v_222839",
+    "manufacturer": "Honda",
+    "model": "F-150",
+    "year": 2024,
+    "type": "LUXURY",
+    "price": 89760.45,
+    "fuelType": "GASOLINE",
+    "transmission": "Manual",
+    "mileage": 47000.76,
+    "features": [
+      "Blind Spot Monitoring",
+      "Sunroof",
+      "Apple CarPlay",
+      "Backup Camera",
+      "Bluetooth"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-06-13T12:02:18.760117",
+    "updatedAt": "2024-09-25T12:02:18.760120"
+  },
+  {
+    "id": "v_814189",
+    "manufacturer": "Kia",
+    "model": "Silverado",
+    "year": 2014,
+    "type": "SUV",
+    "price": 56260.82,
+    "fuelType": "HYBRID",
+    "transmission": "Automatic",
+    "mileage": 157580.63,
+    "features": [
+      "Apple CarPlay",
+      "Sunroof"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-08-24T12:02:18.760134",
+    "updatedAt": "2024-12-09T12:02:18.760137"
+  },
+  {
+    "id": "v_630211",
+    "manufacturer": "Tesla",
+    "model": "X5",
+    "year": 2009,
+    "type": "SUV",
+    "price": 70411.96,
+    "fuelType": "DIESEL",
+    "transmission": "Manual",
+    "mileage": 172433.07,
+    "features": [
+      "Sunroof",
+      "Bluetooth",
+      "Blind Spot Monitoring",
+      "Backup Camera"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-07-20T12:02:18.760151",
+    "updatedAt": "2024-12-08T12:02:18.760154"
+  },
+  {
+    "id": "v_210880",
+    "manufacturer": "Kia",
+    "model": "F-150",
+    "year": 2008,
+    "type": "LUXURY",
+    "price": 90186.78,
+    "fuelType": "DIESEL",
+    "transmission": "Manual",
+    "mileage": null,
+    "features": [
+      "Apple CarPlay",
+      "Navigation System",
+      "Bluetooth"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-04-26T12:02:18.760168",
+    "updatedAt": "2024-12-03T12:02:18.760172"
+  },
+  {
+    "id": "v_565754",
+    "manufacturer": "Mercedes",
+    "model": "F-150",
+    "year": 2023,
+    "type": "SEDAN",
+    "price": 72496.61,
+    "fuelType": "ELECTRIC",
+    "transmission": "Manual",
+    "mileage": 66537.72,
+    "features": [
+      "Backup Camera",
+      "Sunroof",
+      "Remote Start",
+      "Blind Spot Monitoring"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-09-14T12:02:18.760186",
+    "updatedAt": "2024-09-22T12:02:18.760189"
+  },
+  {
+    "id": "v_361943",
+    "manufacturer": "Audi",
+    "model": "Elantra",
+    "year": 2018,
+    "type": "ELECTRIC",
+    "price": 64608.26,
+    "fuelType": "PLUGIN_HYBRID",
+    "transmission": "Manual",
+    "mileage": 59936.15,
+    "features": [
+      "Bluetooth",
+      "Remote Start",
+      "Backup Camera",
+      "Sunroof",
+      "Navigation System"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-01-11T12:02:18.760203",
+    "updatedAt": "2024-11-12T12:02:18.760206"
+  },
+  {
+    "id": "v_387226",
+    "manufacturer": "Honda",
+    "model": "Camry",
+    "year": 2007,
+    "type": "LUXURY",
+    "price": 42315.65,
+    "fuelType": "DIESEL",
+    "transmission": "Manual",
+    "mileage": null,
+    "features": [
+      "Apple CarPlay",
+      "Backup Camera",
+      "Heated Seats"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2023-09-01T12:02:18.760225",
+    "updatedAt": "2024-10-19T12:02:18.760230"
+  },
+  {
+    "id": "v_723125",
+    "manufacturer": "Chevrolet",
+    "model": "Sportage",
+    "year": 2011,
+    "type": "TRUCK",
+    "price": 76225.33,
+    "fuelType": "HYBRID",
+    "transmission": "Manual",
+    "mileage": 102762.48,
+    "features": [
+      "Bluetooth",
+      "Remote Start"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-10-11T12:02:18.760250",
+    "updatedAt": "2024-12-10T12:02:18.760255"
+  },
+  {
+    "id": "v_332447",
+    "manufacturer": "Ford",
+    "model": "F-150",
+    "year": 2021,
+    "type": "TRUCK",
+    "price": 64680.42,
+    "fuelType": "ELECTRIC",
+    "transmission": "Manual",
+    "mileage": 28312.8,
+    "features": [
+      "Navigation System",
+      "Blind Spot Monitoring",
+      "Apple CarPlay"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2024-04-23T12:02:18.760273",
+    "updatedAt": "2024-12-04T12:02:18.760276"
+  },
+  {
+    "id": "v_723869",
+    "manufacturer": "Toyota",
+    "model": "Q7",
+    "year": 2021,
+    "type": "SPORTS",
+    "price": 21168.78,
+    "fuelType": "GASOLINE",
+    "transmission": "Automatic",
+    "mileage": 41377.94,
+    "features": [
+      "Remote Start",
+      "Blind Spot Monitoring",
+      "Apple CarPlay",
+      "Heated Seats"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-08-27T12:02:18.760400",
+    "updatedAt": "2024-09-03T12:02:18.760410"
+  },
+  {
+    "id": "v_480289",
+    "manufacturer": "Chevrolet",
+    "model": "F-150",
+    "year": 2020,
+    "type": "LUXURY",
+    "price": 46609.85,
+    "fuelType": "ELECTRIC",
+    "transmission": "Manual",
+    "mileage": 60804.61,
+    "features": [
+      "Sunroof",
+      "Navigation System",
+      "Backup Camera"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-04-20T12:02:18.760436",
+    "updatedAt": "2024-12-04T12:02:18.760442"
+  },
+  {
+    "id": "v_897045",
+    "manufacturer": "Audi",
+    "model": "Camry",
+    "year": 2010,
+    "type": "SUV",
+    "price": 96017.73,
+    "fuelType": "DIESEL",
+    "transmission": "Manual",
+    "mileage": null,
+    "features": [
+      "Blind Spot Monitoring",
+      "Apple CarPlay",
+      "Navigation System"
+    ],
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "createdAt": "2022-04-14T12:02:18.760459",
+    "updatedAt": "2024-11-29T12:02:18.760465"
+  }
+]
