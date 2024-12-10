@@ -29,13 +29,13 @@ export default async function CarsDetails({ params }: { params: Promise<{ id: st
 				}}
 			>
 				<Box>
-					<Image src={car?.images[0]} alt={"Car image"} width={300} height={300} style={{ borderRadius: "4px" }} />
+					<Image src={car?.images} alt={"Car image"} width={300} height={300} style={{ borderRadius: "4px" }} />
 				</Box>
 				<Box>
 					<Typography>{car?.manufacturer}</Typography>
 					<Typography>{car?.model}</Typography>
 					<Typography>{car?.year}</Typography>
-					<Typography>{car?.features.join(", ")}</Typography>
+					<Typography>{car?.features}</Typography>
 				</Box>
 				<Box>
 					<Typography>{car?.fuelType}</Typography>
